@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://kontrola-sanepidu.com/sitemap.xml

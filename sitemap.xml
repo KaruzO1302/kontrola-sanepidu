@@ -1,75 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://kontrola-sanepidu.com/</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/ozonowanie-dezynfekcja-powietrza</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-gabinet-stomatologiczny</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-2026-nowe-wymagania</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-w-restauracji</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/obowiazki-prawne-wentylacja-hotele-restauracje</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-checklista</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/plesn-w-wentylacji</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/przeglady-wentylacji-obowiazkowe</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/wymogi-wentylacji-sanepid</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://kontrola-sanepidu.com/strefa-wiedzy/czyszczenie-kanalow-wentylacyjnych</loc>
-    <lastmod>2026-03-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
+<url><loc>https://kontrola-sanepidu.com/</loc><lastmod>2026-11-19</lastmod><priority>1.0</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/czyszczenie-kanalow-wentylacyjnych</loc><lastmod>2026-11-19</lastmod><priority>0.9</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-gabinet-stomatologiczny</loc><lastmod>2026-11-19</lastmod><priority>0.9</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-w-restauracji</loc><lastmod>2026-11-19</lastmod><priority>0.9</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-checklista</loc><lastmod>2026-11-19</lastmod><priority>0.8</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/ozonowanie-dezynfekcja-powietrza</loc><lastmod>2026-11-19</lastmod><priority>0.8</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/plesn-w-wentylacji</loc><lastmod>2026-11-19</lastmod><priority>0.8</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/przeglady-wentylacji-obowiazkowe</loc><lastmod>2026-11-19</lastmod><priority>0.8</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/wymogi-wentylacji-sanepid</loc><lastmod>2026-11-19</lastmod><priority>0.8</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy</loc><lastmod>2026-11-19</lastmod><priority>0.8</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/kontrola-sanepidu-2026-nowe-wymagania</loc><lastmod>2026-11-19</lastmod><priority>0.7</priority></url>
+<url><loc>https://kontrola-sanepidu.com/strefa-wiedzy/obowiazki-prawne-wentylacja-hotele-restauracje</loc><lastmod>2026-11-19</lastmod><priority>0.7</priority></url>
+<url><loc>https://kontrola-sanepidu.com/cennik</loc><lastmod>2026-11-19</lastmod><priority>0.7</priority></url>
+<url><loc>https://kontrola-sanepidu.com/kontakt</loc><lastmod>2026-11-19</lastmod><priority>0.7</priority></url>
+<url><loc>https://kontrola-sanepidu.com/polityka-prywatnosci</loc><lastmod>2026-11-19</lastmod><priority>0.2</priority></url>
 </urlset>
