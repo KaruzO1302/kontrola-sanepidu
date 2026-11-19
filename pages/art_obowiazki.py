@@ -28,7 +28,7 @@ PAGE = {
 
 <h2 id="prawo-budowlane">Prawo budowlane: okresowa kontrola</h2>
 <p>Art. 62 ust. 1 Prawa budowlanego wymaga, żeby obiekty budowlane były w czasie użytkowania poddawane przez właściciela lub zarządcę okresowej kontroli, co najmniej raz w roku. Kontrola polega na sprawdzeniu stanu technicznego m.in. instalacji i urządzeń służących ochronie środowiska oraz przewodów kominowych — dymowych, spalinowych i wentylacyjnych.</p>
-<p>Kontrolę przewodów kominowych, w tym wentylacyjnych, przeprowadzają osoby z kwalifikacjami wskazanymi w przepisach: mistrz kominiarski albo osoba z uprawnieniami budowlanymi odpowiedniej specjalności. Wynik kontroli odnotowuje się w książce obiektu budowlanego.</p>
+<p>Kontrolę przewodów kominowych, w tym wentylacyjnych, przeprowadzają osoby z kwalifikacjami wskazanymi w przepisach: mistrz kominiarski albo osoba z uprawnieniami budowlanymi odpowiedniej specjalności. Wynik kontroli odnotowuje się w książce obiektu budowlanego. Taką kontrolę przeprowadzamy z podpisem osoby uprawnionej.</p>
 <p>Okresowa kontrola to sprawdzenie stanu technicznego. Nie oznacza automatycznie czyszczenia kanałów ani dezynfekcji — te prace zleca się wtedy, gdy kontrola lub przegląd pokażą taką potrzebę. Więcej w artykule {LINK:/strefa-wiedzy/przeglady-wentylacji-obowiazkowe|o obowiązkowych przeglądach wentylacji}.</p>
 
 <h2 id="warunki">Warunki techniczne budynków</h2>

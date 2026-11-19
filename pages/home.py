@@ -74,7 +74,7 @@ PAGE = {
 </ul>
 <h2>Kontrola sanepidu a wentylacja — o co chodzi</h2>
 <p>Państwowa Inspekcja Sanitarna sprawdza warunki higieniczno-sanitarne w obiektach, które nadzoruje. W gabinetach, kuchniach i hotelach wentylacja i klimatyzacja są częścią tych warunków: brudne kratki, nalot w klimatyzatorze czy brak przepływu powietrza widać gołym okiem i trudno je wytłumaczyć bez dokumentów.</p>
-<p>Niezależnie od sanepidu Prawo budowlane (art. 62 ust. 1) wymaga, żeby właściciel lub zarządca co najmniej raz w roku poddawał budynek okresowej kontroli, obejmującej m.in. przewody kominowe — dymowe, spalinowe i wentylacyjne. Jak to się łączy i jakie dokumenty warto mieć, opisujemy w artykule {LINK:/strefa-wiedzy/obowiazki-prawne-wentylacja-hotele-restauracje|o obowiązkach prawnych} i na {LINK:/strefa-wiedzy/kontrola-sanepidu-checklista|checkliście przed kontrolą}.</p>
+<p>Niezależnie od sanepidu Prawo budowlane (art. 62 ust. 1) wymaga, żeby właściciel lub zarządca co najmniej raz w roku poddawał budynek okresowej kontroli, obejmującej m.in. przewody kominowe — dymowe, spalinowe i wentylacyjne. Kontrolę przewodów wentylacyjnych wykonujemy z protokołem podpisanym przez osobę z wymaganymi uprawnieniami. Jak to się łączy i jakie dokumenty warto mieć, opisujemy w artykule {LINK:/strefa-wiedzy/obowiazki-prawne-wentylacja-hotele-restauracje|o obowiązkach prawnych} i na {LINK:/strefa-wiedzy/kontrola-sanepidu-checklista|checkliście przed kontrolą}.</p>
 <p>Nie straszymy karami. Przypominamy o obowiązku, wykonujemy prace i dajemy dokumentację, którą możesz pokazać przy kontroli.</p>
 </div></section>
 

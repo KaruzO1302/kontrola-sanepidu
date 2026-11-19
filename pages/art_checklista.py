@@ -79,7 +79,7 @@ PAGE = {
         ("Co zrobić, jeśli nie mam żadnego protokołu z wentylacji?",
          "Umów przegląd. Po nim będzie wiadomo, czy wystarczy umyć kratki i wymienić filtry, czy trzeba wyczyścić kanały. Protokół z prac dostaniesz na koniec zlecenia."),
         ("Kto wykonuje okresową kontrolę przewodów wentylacyjnych z Prawa budowlanego?",
-         "Osoba z kwalifikacjami wymaganymi przepisami — mistrz kominiarski albo osoba z uprawnieniami budowlanymi odpowiedniej specjalności. Przy zgłoszeniu powiedz, czy potrzebujesz takiej kontroli, czy przeglądu technicznego, czyszczenia i pomiarów — ustalimy zakres."),
+         "Osoba z kwalifikacjami wymaganymi przepisami — mistrz kominiarski albo osoba z uprawnieniami budowlanymi odpowiedniej specjalności. Taką kontrolę wykonujemy z podpisem osoby z wymaganymi uprawnieniami — razem z przeglądem, czyszczeniem i pomiarami albo osobno."),
         ("Ile trwa przygotowanie obiektu do kontroli?",
          "Sam przegląd małego gabinetu to zwykle jedna wizyta. Jeśli potrzebne jest czyszczenie kanałów lub badania laboratoryjne, trzeba doliczyć czas na prace i na wyniki z laboratorium — dlatego warto zacząć wcześniej."),
     ],
